@@ -1,0 +1,61 @@
+baseurl: "https://jenniferkbriggs.github.io/"
+title: My Blog
+languageCode: en-us
+theme: hugo-PaperMod
+paginate: 10
+params:
+  dateform: 'Jan 2, 2006'
+  dateformShort: Jan 2
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04'
+  homeSubtitle: A simple and beautiful blog
+  disableReadOtherPosts: false
+  enableSharingButtons: true
+  description: My new homepage or blog
+  keywords: 'homepage, blog'
+  images:
+    - ''
+
+  homeInfoParams:
+      Title: "PaperMod"
+      Content: >
+            Welcome to demo of hugo's theme PaperMod.
+            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - Do give a 🌟 on Github !
+            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+  socialIcons:
+      - name: github
+        url: "https://github.com/jenniferkbriggs"
+      - name: twitter
+        url: "https://twitter.com/JenniferKBriggs"
+      - name: googlescholar
+        url: "https://scholar.google.com/citations?user=jHMnHugAAAAJ&hl=en"
+
+
+
+
+taxonomies:
+  category: blog
+  tag: tags
+  series: series
+languages:
+  en:
+    title: Jennifer K Briggs 
+    subtitle: A simple theme for Hugo
+    keywords: ''
+    copyright: >-
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+      rel="noopener">CC BY-NC 4.0</a>
+    readOtherPosts: Read other posts
+    params:
+      logo:
+        logoText: Jennifer K Briggs
+        logoHomeLink: /
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts
+
+
+
