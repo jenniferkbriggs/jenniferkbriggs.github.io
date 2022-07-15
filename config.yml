@@ -1,8 +1,11 @@
-baseurl: "https://jenniferkbriggs.github.io/"
+#baseurl: "https://jenniferkbriggs.github.io/"
+baseurl: "localhost"
 title: My Blog
 languageCode: en-us
 theme: hugo-PaperMod
 paginate: 10
+publishDir: 'docs'
+
 params:
   dateform: 'Jan 2, 2006'
   dateformShort: Jan 2
