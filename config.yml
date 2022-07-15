@@ -53,7 +53,7 @@ languages:
           series: FRseries
         profileMode:
             enabled: true
-            title: PaperMod
+            title: Jennifer K Briggs
             imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
             imageTitle: ProfileMode image
             # imageWidth: 120
@@ -103,7 +103,7 @@ outputs:
         - HTML
         - RSS
         - JSON
-
+        
 params:
   dateform: 'Jan 2, 2006'
   dateformShort: Jan 2
@@ -118,12 +118,10 @@ params:
     - ''
 
   homeInfoParams:
-      Title: "PaperMod"
+      Title: "Welcome!"
       Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-            - Do give a 🌟 on Github !
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            I am a third year Bioengineering Ph.D. student at the University of Colorado | Anschutz Medical Campus. 
+            
   socialIcons:
       - name: github
         url: "https://github.com/jenniferkbriggs"
