@@ -63,12 +63,13 @@ params:
 
   profileMode:
       enabled: true
-      title: "Jennifer Briggs" # optional default will be site title
-      subtitle: "This is subtitle"
+      title: "Jennifer K Briggs" # optional default will be site title
+      subtitle: "Ph.D. Student Univeristy of Colorado Anschutz Medical School 
+      // Department of Bioengineering"
       imageUrl: "Headshot.png" # optional
       imageTitle: "Headshot" # optional
-      imageWidth: 120 # custom size
-      imageHeight: 120 # custom size
+      imageWidth: 250 # custom size
+      imageHeight: 250 # custom size
       buttons:
 
 
@@ -84,6 +85,12 @@ params:
         url: "https://twitter.com/JenniferKBriggs"
       - name: googlescholar
         url: "https://scholar.google.com/citations?user=jHMnHugAAAAJ&hl=en"
+      - name: linkedin
+        url: https://www.linkedin.com/in/jennifer-briggsphysics
+      - name: researchgate
+        url: https://www.researchgate.net/profile/Jennifer-Briggs-5
+      - name: email
+        url: jennifer.kl.briggs@gmail.com
 
 
 
