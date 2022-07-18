@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jenniferkbriggs.github.io/blog/</loc>
+    <loc>localhost/posts/examplepost/</loc>
+    <lastmod>2022-07-18T13:58:09-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/</loc>
+    <loc>localhost/</loc>
+    <lastmod>2022-07-18T13:58:09-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/series/</loc>
+    <loc>localhost/posts/</loc>
+    <lastmod>2022-07-18T13:58:09-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/tags/</loc>
+    <loc>localhost/blog/</loc>
+  </url><url>
+    <loc>localhost/series/</loc>
+  </url><url>
+    <loc>localhost/tags/</loc>
   </url>
 </urlset>

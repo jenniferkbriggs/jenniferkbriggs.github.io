@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Jennifer K Briggs</title>
+    <link>localhost/projects/</link>
+    <description>Recent content in Projects on Jennifer K Briggs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 18 Jul 2022 14:30:20 -0600</lastBuildDate><atom:link href="localhost/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exampleproject</title>
+      <link>localhost/projects/exampleproject/</link>
+      <pubDate>Mon, 18 Jul 2022 14:30:20 -0600</pubDate>
+      
+      <guid>localhost/projects/exampleproject/</guid>
+      <description>This is my example</description>
+    </item>
+    
+  </channel>
+</rss>

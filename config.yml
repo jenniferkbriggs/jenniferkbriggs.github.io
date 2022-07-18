@@ -1,5 +1,5 @@
-baseurl: "https://jenniferkbriggs.github.io/"
-#baseurl: "localhost"
+#baseurl: "https://jenniferkbriggs.github.io/"
+baseurl: "localhost"
 title: My Blog
 languageCode: en-us
 theme: hugo-PaperMod
@@ -13,10 +13,13 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+math: true #allows for latex markdown
 
 minify:
     disableXML: true
     # minifyOutput: true
+
+
 
 languages:
     en:
@@ -59,6 +62,7 @@ params:
   description: My new homepage or blog
   keywords: 'homepage, blog'
   images:
+  defaultTheme: dark
     - ''
 
   profileMode:
@@ -71,6 +75,10 @@ params:
       imageWidth: 250 # custom size
       imageHeight: 250 # custom size
       buttons:
+        - name: Research
+          url: /projects
+        - name: CV
+          url: BriggsCV.pdf
 
 
   homeInfoParams:
@@ -90,9 +98,7 @@ params:
       - name: researchgate
         url: https://www.researchgate.net/profile/Jennifer-Briggs-5
       - name: email
-        url: jennifer.kl.briggs@gmail.com
-
-
+        url: mailto:jennifer.kl.briggs@gmail.com
 
 
 taxonomies:
@@ -114,9 +120,15 @@ languages:
         logoHomeLink: /
 menu:
   main:
-    - identifier: blog
-      name: Blog
-      url: /posts
+    - identifier: Research
+      name: Research
+      url: /projects
+    - identifier: CV
+      name: CV
+      url: BriggsCV.pdf
+    - identifier: Personal
+      name: Personal
+      url: /personal
 
 
 
