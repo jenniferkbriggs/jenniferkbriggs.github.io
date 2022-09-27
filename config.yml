@@ -50,7 +50,7 @@ outputs:
         - HTML
         - RSS
         - JSON
-        
+
 params:
   dateform: 'Jan 2, 2006'
   dateformShort: Jan 2
@@ -68,7 +68,7 @@ params:
   profileMode:
       enabled: true
       title: "Jennifer K Briggs" # optional default will be site title
-      subtitle: "Ph.D. Student Univeristy of Colorado Anschutz Medical School 
+      subtitle: "Ph.D. Student Univeristy of Colorado Anschutz Medical School
       // Department of Bioengineering"
       imageUrl: "Headshot.png" # optional
       imageTitle: "Headshot" # optional
@@ -84,8 +84,8 @@ params:
   homeInfoParams:
       Title: "Welcome!"
       Content: >
-            I am a third year Bioengineering Ph.D. student at the University of Colorado | Anschutz Medical Campus. 
-            
+            I am a third year Bioengineering Ph.D. student at the University of Colorado | Anschutz Medical Campus.
+
   socialIcons:
       - name: github
         url: "https://github.com/jenniferkbriggs"
@@ -107,7 +107,7 @@ taxonomies:
   series: series
 languages:
   en:
-    title: Jennifer K Briggs 
+    title: Jennifer K Briggs
     subtitle: A simple theme for Hugo
     keywords: ''
     copyright: >-
@@ -126,9 +126,9 @@ menu:
     - identifier: CV
       name: CV
       url: BriggsCV.pdf
+    - identifier: Learning/Teaching
+      name: Learning
+      url: /Learning
     - identifier: Personal
       name: Personal
       url: /personal
-
-
-
