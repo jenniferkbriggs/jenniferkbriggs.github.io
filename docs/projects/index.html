@@ -69,7 +69,7 @@
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  "itemListElement": [, 
+  "itemListElement": [,
     {
       "@type": "ListItem",
       "position":  2 ,
@@ -139,14 +139,25 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
+<main class="main">
 <header class="page-header">
   <h1>
     Projects
   </h1>
 </header>
 
-<article class="post-entry"> 
+<div class="item">
+  <a href="{{ .Permalink }}">
+      {{- $image := resources.Get .Params.featured_image -}}
+      <img src="{{ ($image.Fill "200x200 q100 Center").RelPermalink }}">
+      <div>
+          <h1>{{ .Title }}</h1>
+          {{ .Summary }}
+      </div>
+  </a>
+</div>
+
+<article class="post-entry">
   <header class="entry-header">
     <h2>Exampleproject
     </h2>
@@ -158,7 +169,7 @@
   <a class="entry-link" aria-label="post link to Exampleproject" href="localhost/projects/exampleproject/"></a>
 </article>
     </main>
-    
+
 <footer class="footer">
     <span><!-- raw HTML omitted -->CC BY-NC 4.0<!-- raw HTML omitted --></span>
     <span>
