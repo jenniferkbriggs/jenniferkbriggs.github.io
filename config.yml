@@ -68,8 +68,10 @@ params:
   profileMode:
       enabled: true
       title: "Jennifer K Briggs" # optional default will be site title
-      subtitle: "Ph.D. Student Univeristy of Colorado Anschutz Medical School
-      // Department of Bioengineering"
+      subtitle: "jennifer.briggs@cuanschutz.edu //
+      Ph.D. Student Univeristy of Colorado Anschutz Medical School
+      //
+      Department of Bioengineering"
       imageUrl: "Headshot.png" # optional
       imageTitle: "Headshot" # optional
       imageWidth: 250 # custom size
