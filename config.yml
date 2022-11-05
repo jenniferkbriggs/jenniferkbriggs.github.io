@@ -1,5 +1,5 @@
-baseurl: "https://jenniferkbriggs.github.io/"
-#baseurl: "localhost"
+#baseurl: "https://jenniferkbriggs.github.io/"
+baseurl: "localhost"
 title: My Blog
 languageCode: en-us
 theme: hugo-PaperMod

@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Jennifer K Briggs</title>
-    <link>https://jenniferkbriggs.github.io/projects/</link>
+    <link>localhost/projects/</link>
     <description>Recent content in Projects on Jennifer K Briggs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 17:22:51 -0600</lastBuildDate><atom:link href="https://jenniferkbriggs.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 17:22:51 -0600</lastBuildDate><atom:link href="localhost/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overall Research Interests</title>
-      <link>https://jenniferkbriggs.github.io/projects/researchoverview/</link>
+      <link>localhost/projects/researchoverview/</link>
       <pubDate>Mon, 24 Oct 2022 16:35:04 -0600</pubDate>
       
-      <guid>https://jenniferkbriggs.github.io/projects/researchoverview/</guid>
+      <guid>localhost/projects/researchoverview/</guid>
       <description>My research interests are in using computational methods from complexity science and systems biology to explain new physiological phenomena, advance biomedicine, and provide predictive capabilities that can change human heath through better clinical decision making. Complexity theory is the study of systems whose components interact non-linearly and at many different scales. Nearly all physiological systems can be conceptualized through a complex systems framework. Interactions between trillions of heterogeneous signaling molecules and cells form sophisticated pathways and feedback loops, allowing humans to conquer incredible physical and intellectual feats; from flying to the moon or summiting the tallest mountain on earth to the surprisingly intricate tasks of breathing, blinking, thinking, and even simply being.</description>
     </item>
     
     <item>
       <title>New Model of Cerebral Hemodynamics which Includes Temporally Informed Cerebral Vascular Feedback to Aid in Clinical Decision Support</title>
-      <link>https://jenniferkbriggs.github.io/projects/camodel/</link>
+      <link>localhost/projects/camodel/</link>
       <pubDate>Mon, 24 Oct 2022 17:16:02 -0600</pubDate>
       
-      <guid>https://jenniferkbriggs.github.io/projects/camodel/</guid>
+      <guid>localhost/projects/camodel/</guid>
       <description>Most current models of the cerebral hemodynamic system infer the bulk effect of vascular autoregulation but do not infer cerebral autoregulation mechanistically. At best, when applied for clinical decision support, these models provide an estimate of blood flow and generalized state of the vasculature. In the worst case, our lab has shown that these models predict blood flow to be out of phase of the data, possibly causing hyper- or hypo- perfusion and damage to the patient if these models are used in clinical decision support.</description>
     </item>
     
     <item>
       <title>Minimizing Uncertainity and Error in Pressure Reactivity Index to Aid in Clicial Decision Support</title>
-      <link>https://jenniferkbriggs.github.io/projects/prxsensitivity/</link>
+      <link>localhost/projects/prxsensitivity/</link>
       <pubDate>Mon, 24 Oct 2022 16:59:20 -0600</pubDate>
       
-      <guid>https://jenniferkbriggs.github.io/projects/prxsensitivity/</guid>
+      <guid>localhost/projects/prxsensitivity/</guid>
       <description>Neurovascular injuries are a leading cause of death. A goal in neurocritical care is to optimize brain perfusion. Cerebral Autoregulation (CA) is an intrinsic property of healthy vasculature which maintains optimal perfusion over large pressure gradients. To ensure proper brain perfusion, clinical guidelines recommend targetting ABP to where CA is optimized. Pressure Reactivity Index (PRx) is a common proxy for CA. PRx is estimated by taking the correlation coefficient between a given number of averaged ICP and ABP samples.</description>
     </item>
     
     <item>
       <title>Using Network Theory to Quantify How Functional Networks Emerge From Islet Dynamics</title>
-      <link>https://jenniferkbriggs.github.io/projects/ilset_network/</link>
+      <link>localhost/projects/ilset_network/</link>
       <pubDate>Mon, 24 Oct 2022 15:02:04 -0600</pubDate>
       
-      <guid>https://jenniferkbriggs.github.io/projects/ilset_network/</guid>
+      <guid>localhost/projects/ilset_network/</guid>
       <description>Highly heterogeneous beta-cells within the islet are electrically coupled to synchronize their oscillations and secrete insulin in a pulsatile fashion. This pulsatility is disrupted in diabetes. Studying synchronization of calcium oscillations, previous work has suggested that highly synchronized cells have disproportionate influence over the islet and are targeted in diabetes. In this paper, we use network theory to disprove the common assumption that synchronization directly indicates structure connectivity and show that other factors must be taken into account when utilizing network theory to study network breakdown.</description>
     </item>
     
     <item>
       <title>Transmission dynamics under spatially clustered immunity</title>
-      <link>https://jenniferkbriggs.github.io/projects/infectivity/</link>
+      <link>localhost/projects/infectivity/</link>
       <pubDate>Mon, 24 Oct 2022 17:22:51 -0600</pubDate>
       
-      <guid>https://jenniferkbriggs.github.io/projects/infectivity/</guid>
+      <guid>localhost/projects/infectivity/</guid>
       <description>Spatial patterns of immunity across a population are structured both by natural processes, such as evolutionary history and past epidemics, and by artificial processes, such as vaccination. The diversity of immune types in a population is known to influence pathogen evolution and epidemic dynamics: populations with many immune types are often more robust to epidemics, since a pathogen cannot widely circulate until it evolves the ability to evade many of the established immune types.</description>
     </item>
     
     <item>
       <title>Modeling Islet Vascular Regulation in Diabetes</title>
-      <link>https://jenniferkbriggs.github.io/projects/isletvasculature/</link>
+      <link>localhost/projects/isletvasculature/</link>
       <pubDate>Mon, 24 Oct 2022 16:55:16 -0600</pubDate>
       
-      <guid>https://jenniferkbriggs.github.io/projects/isletvasculature/</guid>
+      <guid>localhost/projects/isletvasculature/</guid>
       <description>Blood flow regulation throughout the islet is an understudied yet highly important topic for blood hormone regulation. Blood flow regulation has been shown to be impaired at both the capillary and arteriole level. We use experimental results from both mouse and human islets to identify the thresholds for which capillary and arteriole regulation become more essential in defining islet blood flow.
 Read a pertinent commentary that we had the pleasure of authoring</description>
     </item>

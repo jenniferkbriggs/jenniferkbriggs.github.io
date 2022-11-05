@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jenniferkbriggs.github.io/projects/researchoverview/</loc>
+    <loc>localhost/projects/researchoverview/</loc>
     <lastmod>2022-10-24T16:35:04-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/projects/camodel/</loc>
+    <loc>localhost/projects/camodel/</loc>
     <lastmod>2022-10-24T17:16:02-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/projects/prxsensitivity/</loc>
+    <loc>localhost/projects/prxsensitivity/</loc>
     <lastmod>2022-10-24T16:59:20-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/projects/ilset_network/</loc>
+    <loc>localhost/projects/ilset_network/</loc>
     <lastmod>2022-10-24T15:02:04-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/</loc>
+    <loc>localhost/</loc>
     <lastmod>2022-10-24T17:22:51-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/projects/</loc>
+    <loc>localhost/projects/</loc>
     <lastmod>2022-10-24T17:22:51-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/projects/infectivity/</loc>
+    <loc>localhost/projects/infectivity/</loc>
     <lastmod>2022-10-24T17:22:51-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/projects/isletvasculature/</loc>
+    <loc>localhost/projects/isletvasculature/</loc>
     <lastmod>2022-10-24T16:55:16-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/posts/examplepost/</loc>
+    <loc>localhost/posts/examplepost/</loc>
     <lastmod>2022-07-18T13:58:09-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/posts/</loc>
+    <loc>localhost/posts/</loc>
     <lastmod>2022-07-18T13:58:09-06:00</lastmod>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/blog/</loc>
+    <loc>localhost/blog/</loc>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/series/</loc>
+    <loc>localhost/series/</loc>
   </url><url>
-    <loc>https://jenniferkbriggs.github.io/tags/</loc>
+    <loc>localhost/tags/</loc>
   </url>
 </urlset>

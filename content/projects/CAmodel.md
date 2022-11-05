@@ -11,5 +11,8 @@ We will develop a novel model of cerebral hemodynamics informed by the mechanism
 
 In the new model, there are three parameters representing the state of each autoregualtion mechanism. We will build out a data assimilation technique which infers the state of each mechanism and how it changes over time. This state will eventually be used for clinical decision support.
 
+
 There is no gold standard on which to test the state of autoregulatory mechanisms against. Further, there is no ethical way to directly test the state of autoregulatory mechanisms in patients, which is the motivation for this model. However, reaction to medication as well as blood test can give us an idea of the function of different cerebral autoreuglatory mechanisms.
 Therefore, we will develop a novel validation pipeline Which uses electronic health record data to evaluate the accuracy of our model prediction.
+
+![Model response to functionality of metabolic reactivity](/CAModel_Met.png)
