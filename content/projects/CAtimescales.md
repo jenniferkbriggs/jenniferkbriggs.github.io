@@ -8,7 +8,7 @@ weight: 3
 
 We are interested in analyzing cerebral autoregulation from a dyanmical systems perspective. Therefore, we are constructing a literature review of cerebral autoregulation metrics and physiologic mechanisms from a timescales perspective.
 
-See our preprint here below. <em>This review is being significantly reorganized. We greatly appreciate any feedback.</em>
+See our preprint here below. **This review is being significantly reorganized. We appreciate any constructive feedback.**
 
 [Read our paper here!](/FullPaper_CATimescales.pdf)
 
