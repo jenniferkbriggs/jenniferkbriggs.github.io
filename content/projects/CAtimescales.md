@@ -1,5 +1,5 @@
 ---
-title: "Time scales underlying cerebral autoregulation"
+title: "Timescales underlying cerebral autoregulation"
 date: 2022-11-15T09:23:10+02:00
 cover:
   image: /CerebralSystem.png
