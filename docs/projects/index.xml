@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>Time scales underlying cerebral autoregulation</title>
+      <link>https://jenniferkbriggs.github.io/projects/catimescales/</link>
+      <pubDate>Tue, 15 Nov 2022 09:23:10 +0200</pubDate>
+      
+      <guid>https://jenniferkbriggs.github.io/projects/catimescales/</guid>
+      <description>Adequate brain perfusion is required for proper brain function and life. Maintaining optimal brain perfusion to avoid secondary brain injury is one of the main concerns of neurocritical care. Cerebral autoregulation is responsible for maintaining optimal brain perfusion despite pressure derangements. Knowledge of cerebral autoregulatory function should be a key factor in clinical decision-making, yet it is often insufficiently and incorrectly applied. Multiple physiologic mechanisms impact cerebral autoregulation, each of which operate on potentially different and incompletely understood timescales confounding conclusions drawn from observations.</description>
+    </item>
+    
+    <item>
       <title>New Model of Cerebral Hemodynamics which Includes Temporally Informed Cerebral Vascular Feedback to Aid in Clinical Decision Support</title>
       <link>https://jenniferkbriggs.github.io/projects/camodel/</link>
       <pubDate>Mon, 24 Oct 2022 17:16:02 -0600</pubDate>
@@ -33,15 +42,6 @@
       
       <guid>https://jenniferkbriggs.github.io/projects/prxsensitivity/</guid>
       <description>Neurovascular injuries are a leading cause of death. A goal in neurocritical care is to optimize brain perfusion. Cerebral Autoregulation (CA) is an intrinsic property of healthy vasculature which maintains optimal perfusion over large pressure gradients. To ensure proper brain perfusion, clinical guidelines recommend targetting ABP to where CA is optimized. Pressure Reactivity Index (PRx) is a common proxy for CA. PRx is estimated by taking the correlation coefficient between a given number of averaged ICP and ABP samples.</description>
-    </item>
-    
-    <item>
-      <title>Time scales underlying cerebral autoregulation</title>
-      <link>https://jenniferkbriggs.github.io/projects/catimescales/</link>
-      <pubDate>Tue, 15 Nov 2022 09:23:10 +0200</pubDate>
-      
-      <guid>https://jenniferkbriggs.github.io/projects/catimescales/</guid>
-      <description>Adequate brain perfusion is required for proper brain function and life. Maintaining optimal brain perfusion to avoid secondary brain injury is one of the main concerns of neurocritical care. Cerebral autoregulation is responsible for maintaining optimal brain perfusion despite pressure derangements. Knowledge of cerebral autoregulatory function should be a key factor in clinical decision-making, yet it is often insufficiently and incorrectly applied. Multiple physiologic mechanisms impact cerebral autoregulation, each of which operate on potentially different and incompletely understood timescales confounding conclusions drawn from observations.</description>
     </item>
     
     <item>
