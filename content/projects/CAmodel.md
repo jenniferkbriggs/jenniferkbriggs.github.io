@@ -5,10 +5,7 @@ cover:
   image: /CAModel.png
 weight: 2
 ---
-Most current models of the cerebral hemodynamic system infer the bulk effect of vascular autoregulation but do not infer cerebral autoregulation mechanistically. At best, when applied for clinical decision support, these models provide an estimate of blood flow and the generalized state of the vasculature. In the worst case, our lab has shown that these models predict blood flow to be out of phase of the data, possibly causing hyper- or hypo-perfusion and damage to the patient if these models are used in clinical decision support. We have an extensive, multi-center data set of neurological ICU patients to execute this aim.
 
-We will develop a novel model of cerebral hemodynamics informed by the mechanisms driving cerebral autoregulation. Previous models perform well when tracking cerebral hemodynamics; however, they are highly non-identifiable or physiologically interpretable.
-
-In the new model, we include three parameters representing each autoregulation mechanism's state and two parameters representing the metabolic state of the cerebrum. We will integrate this model with data via data assimilation to infer the dynamic state of each mechanism in time. In the future, we hope to use this information to aid in clinical decision support.
+We have derived a novel model of cerebral hemodynamics that includes the action of mechanisms driving cerebral vascular tone regulation. We embedd this model into a data assimilation and neural ODE framework to estimate personalized hemodynamical models. Using these personalized models, we can forecast cerebral blood flow and estimate functionality of physiology underlying vascular regulation. 
 
 ![Model response to functionality of metabolic reactivity](/CAModel_Met.png)

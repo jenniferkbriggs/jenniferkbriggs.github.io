@@ -3,6 +3,7 @@ title: "Transmission dynamics under spatially clustered immunity"
 date: 2022-10-24T17:22:51-06:00
 cover:
   image: /probmodel.png
+weight: 3
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GDLL5EC1GF"></script>

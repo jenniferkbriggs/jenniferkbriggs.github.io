@@ -69,7 +69,7 @@ params:
       enabled: true
       title: "Jennifer K Briggs" # optional default will be site title
       subtitle: "jennifer.briggs@cuanschutz.edu //
-      Ph.D. Student Univeristy of Colorado Anschutz Medical School
+      Ph.D. Candidate Univeristy of Colorado Anschutz Medical School
       //
       Department of Bioengineering"
       imageUrl: "Headshot.png" # optional
@@ -81,6 +81,8 @@ params:
           url: /projects
         - name: CV
           url: BriggsCV.pdf
+        - name: Papers
+          url: /projects/papers/
 
 
   homeInfoParams:
