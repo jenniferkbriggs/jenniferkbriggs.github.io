@@ -68,7 +68,7 @@ params:
   profileMode:
       enabled: true
       title: "Jennifer K Briggs" # optional default will be site title
-      subtitle: "jennifer.briggs@cuanschutz.edu //
+      subtitle: "jennifer.kl.briggs@gmail.com //
       Ph.D. Candidate Univeristy of Colorado Anschutz Medical School
       //
       Department of Bioengineering"
@@ -88,7 +88,7 @@ params:
   homeInfoParams:
       Title: "Welcome!"
       Content: >
-            I am a third year Bioengineering Ph.D. student at the University of Colorado | Anschutz Medical Campus.
+            I am a fifth year Bioengineering Ph.D. student at the University of Colorado | Anschutz Medical Campus.
 
   socialIcons:
       - name: github
@@ -102,7 +102,7 @@ params:
       - name: researchgate
         url: https://www.researchgate.net/profile/Jennifer-Briggs-5
       - name: email
-        url: mailto:jennifer.briggs@cuanschutz.edu
+        url: mailto:jennifer.kl.briggs@gmail.com
 
 
 taxonomies:
