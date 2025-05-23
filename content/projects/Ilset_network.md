@@ -1,5 +1,5 @@
 ---
-title: "Using Network Theory to Quantify How Functional Networks Emerge From Islet Dynamics"
+title: "Discovering Mechanisms Underlying Emergent Islet Subpopulations in Health and Diabetes"
 date: 2022-10-24T15:02:04-06:00
 cover:
   image: /Islet_network.png
